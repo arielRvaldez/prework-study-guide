@@ -52,3 +52,4 @@ https://github.com/arielRvaldez?achievement=pull-shark&tab=achievements
 https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg
 
 
+Thank you for reading.
